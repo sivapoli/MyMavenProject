@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="31" started-at="2016-01-08T03:02:01Z" finished-at="2016-01-08T03:02:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31" started-at="2016-01-08T03:02:01Z" finished-at="2016-01-08T03:02:01Z">
+      <class name="com.testnglearning.AppTest">
+        <test-method status="PASS" signature="sendMail()[pri:0, instance:com.testnglearning.AppTest@2d209079]" name="sendMail" duration-ms="12" started-at="2016-01-07T21:02:01Z" finished-at="2016-01-07T21:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMail -->
+      </class> <!-- com.testnglearning.AppTest -->
+      <class name="com.testnglearning.SampleTest">
+        <test-method status="PASS" signature="sampletest()[pri:0, instance:com.testnglearning.SampleTest@2752f6e2]" name="sampletest" duration-ms="1" started-at="2016-01-07T21:02:01Z" finished-at="2016-01-07T21:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampletest -->
+      </class> <!-- com.testnglearning.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
