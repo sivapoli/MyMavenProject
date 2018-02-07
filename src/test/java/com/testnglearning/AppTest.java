@@ -16,6 +16,7 @@ public class AppTest
    public void sendMail(){
 	   
 	   System.out.println("*****App Test********");
+	   System.out.println("Testing Maven github");
 	   
    }
 }
